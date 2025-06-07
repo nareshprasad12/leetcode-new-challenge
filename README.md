@@ -33,7 +33,7 @@ Feel free to browse, clone, or fork this repository if you're also taking on the
 ## 🔗 Connect with Me
 
 * 📧 vnareshprasad2004@gmail.com
-* 💼 \[LinkedIn/GitHub/Portfolio Link]
+* 💼 https://www.linkedin.com/in/naresh-prasad-v-b111732a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
